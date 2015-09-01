@@ -1,0 +1,51 @@
+= Software Freedom Day =
+
+* [http://softwarefreedomday.org SFD Website]
+* [mailto:decause@redhat.com Contact decause@fedora]
+
+== About Software Freedom Day ==
+
+<blockquote>&quot;Software Freedom Day (SFD) is a worldwide celebration of Free and Open Source Software (FOSS). Our goal in this celebration is to educate the worldwide public about the benefits of using high quality FOSS in education, in government, at home, and in business -- in short, everywhere!&quot;</blockquote>
+Each year, SFD events are organized by volunteers in '''''dozens''''' of cities worldwide. These events each take on their own character, but typically involve some sort of address from the organizers, demos and presentations from community members, and installfests and hackathons. Each venue and organizer will have their own agenda and timeline, but there are specific things that Fedora is helping to support this year.
+
+== Installfests ==
+
+Helping introduce new users to Free/Open Source Software is a common activity at SFD each year. One of the &quot;rights of passage&quot; for many FOSS contributors is the installation of your first &quot;distro.&quot; An installfest is where that happens, en masse, with local experts and mentors to help guide new users through the ''occasionally'' complicated install process.
+
+Here are some pro-tips to help you run an installfest at your SFD location:
+
+# Acquire Fedora Images
+# Create Install Media
+# Assist Users during installation
+# Report on how your event went
+
+=== Before ===
+
+Installfests require install media. In earlier times, this took the form of CDROMs or DVDs (even floppy disks once upon a time) that were shipped to local sites as part of an [[#|Ambassador kit]]. These days, most laptops don't even come with a CD/DVD drive, and the project has adapted with the times. There are now three editions of Fedora (Workstation, Server, and cloud) which come in a variety of formats, and can be found at: http://getfedora.org.
+
+Once you have your installation media, one popular way to &quot;try before you buy&quot; is by using the [https://fedorahosted.org/liveusb-creator/ Fedora Live USB Creator]. You can find instructions on this effective and cross-platform tool on the [https://fedorahosted.org/liveusb-creator/ official web page].
+
+=== During ===
+
+Once you have created LiveUSB drives, users should be able to plug these drives into their laptops, desktops, and other USB-bootable devices, and try running Fedora. Rather than listing specific steps here, we should list a few points to keep in mind:
+
+'''BACKUP ALL THE THINGS'''
+
+Before doing any destructive action to an existing system or machine, users should back up any data on their drives to an external drive or storage device.
+
+'''ALL HARDWARE IS DIFFERENT'''
+
+Just because ''your'' machine runs Fedora, that doesn't mean everyone will have a plug-and-play experience. Unfortunately, not all device and component manufacturers work with the FOSS community to release drivers and specifications. Too often, it is the hard work of volunteers to be sure a particular piece of hardware is supported within Fedora, or other distros for that matter. The key sequence you have to punch in to get to the BIOS, the boot order of the devices, and/or any other options or configurations thereafter all must be reckoned on an individual basis. Before installing an image to a user's drive, you should be checking logs and testing settings to be sure that their hardware is supported. There is almost nothing worse than a fresh install without wireless or network access.
+
+'''WRITE IT DOWN!'''
+
+Was that experience fun? Did everything work perfectly? Were there any bugs? Good or bad, it is usually a good idea to try to document the process you went through. If you found a bug, or a component of your machine isn't supported, fear not! The only way we at the Fedora Project can fix a problem is if we find it. Your contribution at Software Freedom Day could be helping us identify places where the community needs help. Chances are, if you are having an issue or seeing a bug, then someone else has too! Even in 'failure' there can be progress and learning :) Take a screenshot. Take a snapshot. [http://fpaste.org Fpaste] a traceback. The more data you can gather, the better.
+
+'''BE IN CHANNEL'''
+
+Even though our events can be far from each other physically, there is no reason to be far from the community virtually. During the event, you can find other SFD participants in <code>#sfd</code> on chat.freenode.net.
+
+=== After ===
+
+After you've recorded your progress, good or bad, whichever way it went, there are places you can report back and tell your story, [http://fedoramagazine.org Fedora Magazine], or submit your bugs, like [http://bugzilla.redhat.com Bugzilla].
+
