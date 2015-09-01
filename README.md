@@ -1,7 +1,12 @@
-Software Freedom Day Repository
-===============================
-
+Software Freedom Day
+====================
 http://softwarefreedomday.org
+
+
+Fedora + SFD
+============
+https://fedoraproject.org/wiki/Softwarefreedomday/2015
+
 
 LICENSE
 =======
