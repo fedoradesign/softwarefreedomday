@@ -49,52 +49,41 @@ Even though our events can be far from each other physically, there is no reason
 
 After you've recorded your progress, good or bad, whichever way it went, there are places you can report back and tell your story, [http://fedoramagazine.org Fedora Magazine], or submit your bugs, like [http://bugzilla.redhat.com Bugzilla].
 
-== Badge-a-thon ==
+= Badge-a-thon =
 
 https://badges.fedoraproject.org
 
 <blockquote>&quot;Fedora Badges is a fun website built to recognize contributors to the Fedora Project, help new and existing Fedora contributors find different ways to get involved, and encourage the improvement of Fedora's infrastructure.&quot;</blockquote>
 Not sure where to start? Then https://whatcanidoforfedora.org is a '''''great''''' place for you to match the things you are interested in with the activities that Fedora needs help with.
 
-=== Parts of Fedora ===
+== Parts of Fedora ==
 
 There are '''13''' subprojects within Fedora that focus on specific elements of the community:
 
-<dl>
-<dt>[https://fedoraproject.org/wiki/Ambassadors Ambassadors]</dt>
-<dd>Ambassadors are the representatives of Fedora. Ambassadors ensure the public understand Fedora's principles and the work that Fedora is doing. Additionally Ambassadors are responsible for helping to grow the contributor base, and to act as a liaison between other FLOSS projects and the Fedora community.</dd>
-<dt>[https://fedoraproject.org/wiki/Design Design]</dt>
-<dd><p>The Design Team is the design group of the Fedora project. Our interests are not only in creating graphics for use by the Fedora community, but also in advocating the use of the creative tools that are a part of Fedora.</p>
-<p>'''Team Leader'''</p>
-<p>[[wiki/MairinDuffy|Máirín Duffy]]</p></dd>
-<dt>[https://fedoraproject.org/wiki/DocsProject Documentation]</dt>
-<dd>The mission of Fedora's Documentation Project is to improve the overall experience of Fedora users and contributors by providing documentation. We explain how to use certain software and systems, provide written accounts of special events (like releases), and recommend settings for software and systems (in terms of security, performance, and other concerns). In pursuing this work, the Docs Project creates and uses only free and open-source software, content, tools, and processes, so our documentation is reusable, modifiable, and rebuildable by anyone, for free, forever.</dd>
-<dt>[https://fedoraproject.org/wiki/EPEL EPEL]</dt>
-<dd>Extra Packages for Enterprise Linux (or EPEL) is a Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS and Scientific Linux (SL), Oracle Linux (OL).<br /><br /> EPEL packages are usually based on their Fedora counterparts and will never conflict with or replace packages in the base Enterprise Linux distributions. EPEL uses much of the same infrastructure as Fedora, including buildsystem, bugzilla instance, updates manager, mirror manager and more.</dd>
-<dt>[https://fedoraproject.org/wiki/Infrastructure Infrastructure]</dt>
-<dd>The Infrastructure Team consists of dedicated volunteers and professionals managing the servers, building the tools and utilities, and creating new applications to make Fedora development a smoother process. We're located all over the globe and communicate primarily by IRC and e-mail.</dd>
-<dt>[https://fedoraproject.org/wiki/I18N Internationalization]</dt>
-<dd><p>The Fedora I18N project works on internationalization (i18n) to support the localization (l10n) of Fedora in many languages.</p>
-<p>Translation of Fedora software and documentation are handled by the [[wiki/L10N|Fedora L10N project]] .</p>
-<p>The goals of the Project are to:</p>
-<ul>
-<li>Develop, package, and maintain applications like input methods for different languages</li>
-<li>Improve applications and utilities to support and process different languages</li>
-<li>Quality-assure that existing applications meet i18n standards</li>
-<li>Support the infrastructure of the [[wiki/L10N|Fedora Localization Project]]</li></ul>
-</dd>
-<dt>[https://fedoraproject.org/wiki/L10N Localization]</dt>
-<dd>The goal of the Fedora Localization Project (FLP) is to bring everything around Fedora (the Software, Documentation, Websites and culture) closer to local communities (countries, languages and in general cultural groups). Usually this involves doing translations via PO files but is certainly not limited to that.<br /><br /> '''L10N''' is an abbreviation of the term &quot;Localization&quot; by means of a so called numeronym, a way of replacing the middle letters of a word (in case 'ocalizatio') by naming the number of letters between the first and last letter of that word (in case 10): Localization</dd>
-<dt>[https://fedoraproject.org/wiki/Marketing Marketing]</dt>
-<dd>The short version: The Fedora Marketing Team ensures that people in Fedora can consistently explain to everyone what Fedora is, why the project can help them, and how they can help the project.<br /><br /> Slightly longer version: The Fedora Marketing Team develops and executes marketing strategies to promote the usage and support of Fedora worldwide. Through the development of processes and content, this project aims to support the efforts of other Fedora projects to spread Fedora and to provide a central repository of ideas and information that can be used to deliver Fedora to new audiences. We work closely with the Fedora Ambassadors who spread the word about Fedora at events and allow the Fedora Project to interact directly with its existing and prospective users.</dd>
-<dt>[https://fedoraproject.org/wiki/FWN Magazine]</dt>
-<dd>The Fedora Magazine is our new spot where you can read about Fedora events, Fedora board meeting notes, updates within the Fedora project and about Fedora itself.</dd>
-<dt>[https://fedoraproject.org/wiki/PackageMaintainers Package Maintainers]</dt>
-<dd>Fedora Packages are maintained collectively by a community of both Red Hat members and volunteers.</dd>
-<dt>[https://fedoraproject.org/wiki/QA Quality Assurance]</dt>
-<dd>Fedora QA is the project which covers all testing of the software that makes up Fedora. It's our goal to continually improve the quality of Fedora releases and updates.</dd>
-<dt>[https://fedoraproject.org/wiki/Websites Websites]</dt>
-<dd>The Fedora Websites initiative aims to improve Fedora's image and to create the best possible interface for users and contributors on the Internet.</dd></dl>
+; [https://fedoraproject.org/wiki/Ambassadors Ambassadors]
+: Ambassadors are the representatives of Fedora. Ambassadors ensure the public understand Fedora's principles and the work that Fedora is doing. Additionally Ambassadors are responsible for helping to grow the contributor base, and to act as a liaison between other FLOSS projects and the Fedora community.
+; [https://fedoraproject.org/wiki/Design Design]
+: The Design Team is the design group of the Fedora project. Our interests are not only in creating graphics for use by the Fedora community, but also in advocating the use of the creative tools that are a part of Fedora.
+; [https://fedoraproject.org/wiki/DocsProject Documentation]
+: The mission of Fedora's Documentation Project is to improve the overall experience of Fedora users and contributors by providing documentation. We explain how to use certain software and systems, provide written accounts of special events (like releases), and recommend settings for software and systems (in terms of security, performance, and other concerns). In pursuing this work, the Docs Project creates and uses only free and open-source software, content, tools, and processes, so our documentation is reusable, modifiable, and rebuildable by anyone, for free, forever.
+; [https://fedoraproject.org/wiki/EPEL EPEL]
+: Extra Packages for Enterprise Linux (or EPEL) is a Fedora Special Interest Group that creates, maintains, and manages a high quality set of additional packages for Enterprise Linux, including, but not limited to, Red Hat Enterprise Linux (RHEL), CentOS and Scientific Linux (SL), Oracle Linux (OL).<br /><br /> EPEL packages are usually based on their Fedora counterparts and will never conflict with or replace packages in the base Enterprise Linux distributions. EPEL uses much of the same infrastructure as Fedora, including buildsystem, bugzilla instance, updates manager, mirror manager and more.
+; [https://fedoraproject.org/wiki/Infrastructure Infrastructure]
+: The Infrastructure Team consists of dedicated volunteers and professionals managing the servers, building the tools and utilities, and creating new applications to make Fedora development a smoother process. We're located all over the globe and communicate primarily by IRC and e-mail.
+; [https://fedoraproject.org/wiki/I18N Internationalization]
+: The Fedora I18N project works on internationalization (i18n) to support the localization (l10n) of Fedora in many languages. Translation of Fedora software and documentation are handled by the [http://fedoraproject.org/wiki/L10N Fedora L10N project]. The goals of the Project are to:<br /><br /> Develop, package, and maintain applications like input methods for different languages<br /><br /> Improve applications and utilities to support and process different languages<br /><br /> Quality-assure that existing applications meet i18n standards<br /><br /> Support the infrastructure of the [http://fedoraproject.org/wiki/L10N Fedora Localization Project]
+; [https://fedoraproject.org/wiki/L10N Localization]
+: The goal of the Fedora Localization Project (FLP) is to bring everything around Fedora (the Software, Documentation, Websites and culture) closer to local communities (countries, languages and in general cultural groups). Usually this involves doing translations via PO files but is certainly not limited to that.<br /><br /> '''L10N''' is an abbreviation of the term &quot;Localization&quot; by means of a so called numeronym, a way of replacing the middle letters of a word (in case 'ocalizatio') by naming the number of letters between the first and last letter of that word (in case 10): Localization
+; [https://fedoraproject.org/wiki/Marketing Marketing]
+: The short version: The Fedora Marketing Team ensures that people in Fedora can consistently explain to everyone what Fedora is, why the project can help them, and how they can help the project.<br /><br /> Slightly longer version: The Fedora Marketing Team develops and executes marketing strategies to promote the usage and support of Fedora worldwide. Through the development of processes and content, this project aims to support the efforts of other Fedora projects to spread Fedora and to provide a central repository of ideas and information that can be used to deliver Fedora to new audiences. We work closely with the Fedora Ambassadors who spread the word about Fedora at events and allow the Fedora Project to interact directly with its existing and prospective users.
+; [https://fedoraproject.org/wiki/FWN Magazine]
+: The Fedora Magazine is our new spot where you can read about Fedora events, Fedora board meeting notes, updates within the Fedora project and about Fedora itself.
+; [https://fedoraproject.org/wiki/PackageMaintainers Package Maintainers]
+: Fedora Packages are maintained collectively by a community of both Red Hat members and volunteers.
+; [https://fedoraproject.org/wiki/QA Quality Assurance]
+: Fedora QA is the project which covers all testing of the software that makes up Fedora. It's our goal to continually improve the quality of Fedora releases and updates.
+; [https://fedoraproject.org/wiki/Websites Websites]
+: The Fedora Websites initiative aims to improve Fedora's image and to create the best possible interface for users and contributors on the Internet.
 
 === Types of Badges ===
 
@@ -137,7 +126,7 @@ Add yourself to the table below with your Badges profile link, and which Softwar
 
 ==== What do I win? ====
 
-Glory! Fame! Magical Internet Points!<br /><br /> Srsly tho, we'll likely put togehter some swag kits to mail to our winners, and make a blogpost on [http://fedoramagazine.org Fedora Magazine] announcing the winners and recognizing your contributions to the Fedora Community :)
+Glory! Fame! Magical Internet Points!<br /><br /> Srsly tho, we'll likely put together some swag kits to mail to our winners, and make a blogpost on [http://fedoramagazine.org Fedora Magazine] announcing the winners and recognizing your contributions to the Fedora Community :)
 
 ==== Questions/Comments? ====
 
